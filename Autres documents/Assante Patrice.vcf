@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Assante Patrice
+N:ASSANTE;Patrice;;;
+TITLE:Titre Personnel
+TEL;TYPE=CELL,VOICE:+33627870542
+ADR;TYPE=HOME;PREF:;;4 allee pierre de coubertin;plan de cuques;13380;France
+EMAIL:litaliendu13013@hotmail.fr
+END:VCARD
